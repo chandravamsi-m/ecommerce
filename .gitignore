@@ -1,0 +1,19 @@
+# General
+*.log
+*.env
+.DS_Store
+
+# Java (Spring Boot)
+target/
+*.iml
+*.class
+.idea/
+application.properties
+
+# Node (Frontend)
+node_modules/
+dist/
+build/
+
+# OS
+Thumbs.db
